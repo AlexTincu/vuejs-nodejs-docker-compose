@@ -1,2 +1,2 @@
 # vuejs-nodejs-docker-compose
-Example project for Developing Vuejs with Docker Compose 
+Example project for Developing Vuejs with Docker Compose and hot reload
